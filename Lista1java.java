@@ -1,3 +1,9 @@
+//NOME: PABLO RYAN LOPES VIEIRA
+//MATRICULA: 2024010361
+//TURMA: PEX0130
+//REPOSITORIO: https://github.com/Ryan-loyer/EXERCICIOS-EM-JAVA
+
+
 import java.util.Scanner;
 
 public class Lista1java {
@@ -491,3 +497,8 @@ public class Lista1java {
             scanner.close();
         }
 }
+
+//NOME: PABLO RYAN LOPES VIEIRA
+//MATRICULA: 2024010361
+//TURMA: PEX0130
+//REPOSITORIO: https://github.com/Ryan-loyer/EXERCICIOS-EM-JAVA
